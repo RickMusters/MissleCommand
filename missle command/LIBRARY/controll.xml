@@ -1,0 +1,151 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="controll" itemID="52795168-00000204" linkageExportForAS="true" linkageClassName="Controll" lastModified="1383682409">
+  <timeline>
+    <DOMTimeline name="controll">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!490 -2745S6|4850 -2745!4850 -2745|4850 -1705!4850 -1705|490 -1705!490 -1705|490 -2745!4850 -804|4850 236!4850 236|490 236!490 236|490 -804!490 -804|4850 -804!4850 2695|490 2695!490 2695|490 1655!490 1655|4850 1655!4850 1655|4850 2695
+!-4030 -904|-4030 456!-4030 456|-5730 456!-5730 456|-5730 -904!-5730 -904|-4030 -904!-4030 2535|-5730 2535!-5730 2535|-5730 1175!-5730 1175|-4030 1175!-4030 1175|-4030 2535"/>
+                  </edges>
+                </DOMShape>
+                <DOMStaticText selected="true" width="56.15" height="72" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-266.5" ty="-43.2"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Q</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" size="64" bitmapSize="1280" face="Pixelate" fillColor="#00FF00"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText selected="true" width="48.15" height="72" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-266.5" ty="60.75"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>W</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" size="64" bitmapSize="1280" face="Pixelate" fillColor="#00FF00"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText selected="true" width="32.15" height="72" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-177.5" ty="-46.2"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>+</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" size="64" bitmapSize="1280" face="Pixelate" fillColor="#00FF00"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText selected="true" width="32.15" height="72" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-177.5" ty="60.75"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>+</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" size="64" bitmapSize="1280" face="Pixelate" fillColor="#00FF00"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMBitmapInstance selected="true" libraryItemName="thumb.png">
+                  <matrix>
+                    <Matrix a="0.174942016601563" d="0.193923950195313" tx="-92" ty="-48.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="191.5" y="229.45"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance selected="true" libraryItemName="thumb.png">
+                  <matrix>
+                    <Matrix a="0.174942016601563" d="0.193923950195313" tx="-92" ty="58.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="191.5" y="229.45"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+                <DOMStaticText selected="true" width="217" height="43.9" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="42.5" ty="-38.2"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Launcher</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" size="39" bitmapSize="780" face="Pixelate" fillColor="#00FF00"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText selected="true" width="217" height="43.9" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="66.5" ty="88.85"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Sniper</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" size="39" bitmapSize="780" face="Pixelate" fillColor="#00FF00"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMBitmapInstance selected="true" libraryItemName="thumb.png">
+                  <matrix>
+                    <Matrix a="0.174942016601563" d="0.193923950195313" tx="-92" ty="-147.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="191.5" y="229.45"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+                <DOMStaticText selected="true" width="217" height="43.9" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="67.5" ty="-135.25"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Shoot</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" size="39" bitmapSize="780" face="Pixelate" fillColor="#00FF00"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

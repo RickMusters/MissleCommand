@@ -1,0 +1,43 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="road" itemID="5278e99d-000001ec" linkageExportForAS="true" linkageClassName="RoadArt" lastModified="1383655837">
+  <timeline>
+    <DOMTimeline name="road">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#999999"/>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle0="1" fillStyle1="2" strokeStyle="1" edges="!1230 -260S7|-10 -260!-10 -260|-10 -520!-10 -520|1230 -520!1230 -520|1230 -260!2270 -520|3510 -520!3510 -520|3510 -260!3510 -260|2270 -260!2270 -260|2270 -520!4490 -520|5730 -520!5730 -520|5730 -260!5730 -260|4490 -260!4490 -260|4490
+ -520!6530 -520|7770 -520!7770 -520|7770 -260!7770 -260|6530 -260!6530 -260|6530 -520!8669 -520|9909 -520!9909 -520|9909 -260!9909 -260|8669 -260!8669 -260|8669 -520!-9849 -520|-8609 -520!-8609 -520|-8609 -260!-8609 -260|-9849 -260!-9849
+ -260|-9849 -520!-7990 -520|-6750 -520!-6750 -520|-6750 -260!-6750 -260|-7990 -260!-7990 -260|-7990 -520!-6050 -520|-4810 -520!-4810 -520|-4810 -260!-4810 -260|-6050 -260!-6050 -260|-6050 -520!-4030 -520|-2790 -520!-2790 -520|-2790 -260
+!-2790 -260|-4030 -260!-4030 -260|-4030 -520!-2030 -520|-790 -520!-790 -520|-790 -260!-790 -260|-2030 -260!-2030 -260|-2030 -520"/>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="
+!-10249 -1360S6|10249 -1360!10249 -1360|10249 1360!10249 1360|-10249 1360!-10249 1360|-10249 -1360"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>
